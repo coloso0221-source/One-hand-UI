@@ -77,7 +77,8 @@ One-Hand Video Player는 세로 타임라인를 통해 엄지손가락 하나만
 
 ### 오른손 모드
 
-<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/c2fd9f99-53e9-4d06-a2b1-ff71d4b24693" />
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/ac31abab-935d-4312-9934-f2f6705805fe" />
+
 
 
 ---
